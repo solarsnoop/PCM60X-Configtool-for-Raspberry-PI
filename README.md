@@ -2,6 +2,8 @@
 
 A Python-based CLI tool for synchronized management of **MPP Solar PCM60X** charge controllers and **Axpert/PIP** inverters.
 
+Usage with * **Adapters**: **Prolific PL2303** USB-to-Serial adapter.
+
 This tool provides real-time monitoring and parameter configuration through a single interface, specifically optimized for **Raspberry Pi** systems.
 
 ---
