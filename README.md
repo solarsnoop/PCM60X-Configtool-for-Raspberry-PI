@@ -1,5 +1,7 @@
 # Solar Controller Hybrid Manager
 
+![Main Menu](screenshot1.png)
+
 A Python-based CLI tool for synchronized management of **MPP Solar PCM60X** charge controllers and **Axpert/PIP** inverters.
 
 Usage with * **Adapters**: **Prolific PL2303** USB-to-Serial adapter.
@@ -37,6 +39,8 @@ The script calculates the **Voltage per Cell (V/Cell)** based on this number.
 ---
 
 ## 🚀 Key Features
+
+![Monitoring Example](screenshot2.png)
 
 * **Automatic Device Recognition**: Automatically detects whether a PCM60X or an Axpert inverter is connected.
 * **Live Monitoring**: Displays Wattage, PV voltage, battery voltage, and charging current.
