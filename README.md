@@ -1,4 +1,4 @@
-# Solar Controller Hybrid Manager
+# AXPERT-PCM60X-Configtool-for-Raspberry-PI
 
 ![Main Menu](screenshot1.png)
 
